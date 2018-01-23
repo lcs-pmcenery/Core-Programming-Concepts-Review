@@ -18,7 +18,12 @@
  
  */
 // Answer question 2 below
-
+var numberOfCommits = 200
+var numberOfForks = 100
+let yearCreated = 2018
+let monthCreated = "January"
+let dayCreated = 23
+print("For numberOfCommints I chose a variable because this number can increase if more people commit, same with the amount of forks. The date created will be constant because that is when it happened, the same thing wont be created again. Therefore the 3 dates are constants.")
 /*:
  ## Now share your understanding
  
