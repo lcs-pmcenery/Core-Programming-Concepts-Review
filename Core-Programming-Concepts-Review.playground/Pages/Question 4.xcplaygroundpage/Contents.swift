@@ -21,7 +21,14 @@
  
  */
 // Answer question 4 below
-
+let Diners = 300
+let saladBar = 30.0
+let soup = 30.0
+let mainCourse = 50.0
+let pizzaOven = 40.0
+let date = "Tuesday, January 23, 2018"
+let titleFrame = "11:30AM - 1:00PM"
+print("For the amount of people I used Int because this will be a whole number because you cant have half a person. The measurments of the types of food must be percise so I used doubles to declare these values. The date and title frame are a string because it is easiest to put them into a statment because numbers and letters don't go well together unless in a string.")
 /*:
  ## Now share your understanding
  
